@@ -1,16 +1,13 @@
 {
   "name": "react_finance",
-  "homepage": "https://Lider3023.github.io/react_finance1/",
-  "private": true,
+    "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "framer-motion": "^12.23.0",
